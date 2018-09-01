@@ -1,6 +1,6 @@
 ---
   title: Home
-  author: @Obsinqsob01
+  author: Obsinqsob01
   layout: header
 ---
 
