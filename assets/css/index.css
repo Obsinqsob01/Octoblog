@@ -3,5 +3,8 @@ nav {
 }
 
 footer {
+  display: absolute;
+  bottom: 0;
+  
   margin-top: 3em !important;
 }
